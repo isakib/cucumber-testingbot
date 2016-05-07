@@ -36,3 +36,25 @@ else
   end
 end
 
+#Few Formats requires to be changed before test execution
+#  caps = Selenium::WebDriver::Remote::Capabilities.internet_explorer
+#  caps = Selenium::WebDriver::Remote::Capabilities.chrome
+#  caps = Selenium::WebDriver::Remote::Capabilities.firefox
+#  caps = Selenium::WebDriver::Remote::Capabilities.safari
+
+#OS Name:
+#:WIN10 
+#:YOSEMITE
+#:CAPITAN
+
+#Browsername:
+#internet explorer
+#safari
+#chrome
+#firefox
+
+#TESTINGBOT_BROWSERVERSION = 35,36 or mention any specific browser. 
+
+#OS / Platform:
+#:WIN10, 
+#:YOSEMITE
