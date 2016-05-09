@@ -41,6 +41,7 @@ end
 #  caps = Selenium::WebDriver::Remote::Capabilities.chrome
 #  caps = Selenium::WebDriver::Remote::Capabilities.firefox
 #  caps = Selenium::WebDriver::Remote::Capabilities.safari
+#caps = Selenium::WebDriver::Remote::Capabilities.edge
 
 #OS Name:
 #:WIN10 
@@ -52,9 +53,12 @@ end
 #safari
 #chrome
 #firefox
+#microsoftedge
+
 
 #TESTINGBOT_BROWSERVERSION = 35,36 or mention any specific browser. 
 
 #OS / Platform:
 #:WIN10, 
 #:YOSEMITE
+
